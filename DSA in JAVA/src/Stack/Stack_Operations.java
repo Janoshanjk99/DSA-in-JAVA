@@ -1,8 +1,4 @@
 package Stack;
-
-
-
-
 /**
  *
  * @author JANOSH JK
